@@ -1,0 +1,144 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic [ref=e7]: Singlish ↔ English Translator
+    - generic [ref=e8]:
+      - button "Help" [ref=e9] [cursor=pointer]
+      - generic [ref=e10]:
+        - generic [ref=e11]: Switch Typing Language
+        - combobox [ref=e12]:
+          - option "Singlish" [selected]
+          - option "Sinhala"
+  - generic [ref=e13]:
+    - generic [ref=e14]:
+      - button "Hide Tools" [ref=e16] [cursor=pointer]:
+        - img [ref=e17]
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]: Features
+          - generic [ref=e23]:
+            - generic [ref=e24]:
+              - generic [ref=e25]: Word Autocorrect
+              - generic [ref=e26]: Automatically correct common typos in input.
+            - checkbox [ref=e28]
+        - generic [ref=e30]:
+          - generic [ref=e31]: Singlish Touchpad
+          - generic [ref=e33]:
+            - generic [ref=e34]:
+              - button "අ" [ref=e35] [cursor=pointer]
+              - button "ආ" [ref=e36] [cursor=pointer]
+              - button "ඇ" [ref=e37] [cursor=pointer]
+              - button "ඈ" [ref=e38] [cursor=pointer]
+              - button "ඉ" [ref=e39] [cursor=pointer]
+              - button "ඊ" [ref=e40] [cursor=pointer]
+              - button "උ" [ref=e41] [cursor=pointer]
+              - button "ඌ" [ref=e42] [cursor=pointer]
+              - button "ඍ" [ref=e43] [cursor=pointer]
+              - button "ඎ" [ref=e44] [cursor=pointer]
+              - button "ඏ" [ref=e45] [cursor=pointer]
+              - button "ඐ" [ref=e46] [cursor=pointer]
+              - button "එ" [ref=e47] [cursor=pointer]
+              - button "ඒ" [ref=e48] [cursor=pointer]
+              - button "ඓ" [ref=e49] [cursor=pointer]
+              - button "ඔ" [ref=e50] [cursor=pointer]
+              - button "ඕ" [ref=e51] [cursor=pointer]
+              - button "ඖ" [ref=e52] [cursor=pointer]
+            - generic [ref=e53]:
+              - button "ක" [ref=e54] [cursor=pointer]
+              - button "ඛ" [ref=e55] [cursor=pointer]
+              - button "ග" [ref=e56] [cursor=pointer]
+              - button "ඝ" [ref=e57] [cursor=pointer]
+              - button "ඞ" [ref=e58] [cursor=pointer]
+              - button "ඟ" [ref=e59] [cursor=pointer]
+              - button "ච" [ref=e60] [cursor=pointer]
+              - button "ඡ" [ref=e61] [cursor=pointer]
+              - button "ජ" [ref=e62] [cursor=pointer]
+              - button "ඣ" [ref=e63] [cursor=pointer]
+              - button "ඤ" [ref=e64] [cursor=pointer]
+              - button "ට" [ref=e65] [cursor=pointer]
+              - button "ඨ" [ref=e66] [cursor=pointer]
+              - button "ඩ" [ref=e67] [cursor=pointer]
+              - button "ඪ" [ref=e68] [cursor=pointer]
+              - button "ණ" [ref=e69] [cursor=pointer]
+              - button "ඬ" [ref=e70] [cursor=pointer]
+              - button "ත" [ref=e71] [cursor=pointer]
+              - button "ථ" [ref=e72] [cursor=pointer]
+              - button "ද" [ref=e73] [cursor=pointer]
+              - button "ධ" [ref=e74] [cursor=pointer]
+              - button "න" [ref=e75] [cursor=pointer]
+              - button "ඳ" [ref=e76] [cursor=pointer]
+              - button "ප" [ref=e77] [cursor=pointer]
+              - button "ඵ" [ref=e78] [cursor=pointer]
+              - button "බ" [ref=e79] [cursor=pointer]
+              - button "භ" [ref=e80] [cursor=pointer]
+              - button "ම" [ref=e81] [cursor=pointer]
+              - button "ඹ" [ref=e82] [cursor=pointer]
+              - button "ය" [ref=e83] [cursor=pointer]
+              - button "ර" [ref=e84] [cursor=pointer]
+              - button "ල" [ref=e85] [cursor=pointer]
+              - button "ව" [ref=e86] [cursor=pointer]
+              - button "ශ" [ref=e87] [cursor=pointer]
+              - button "ෂ" [ref=e88] [cursor=pointer]
+              - button "ස" [ref=e89] [cursor=pointer]
+              - button "හ" [ref=e90] [cursor=pointer]
+              - button "ෆ" [ref=e91] [cursor=pointer]
+              - button "ළ" [ref=e92] [cursor=pointer]
+            - generic [ref=e93]:
+              - button "ා" [ref=e94] [cursor=pointer]
+              - button "ැ" [ref=e95] [cursor=pointer]
+              - button "ෑ" [ref=e96] [cursor=pointer]
+              - button "ි" [ref=e97] [cursor=pointer]
+              - button "ී" [ref=e98] [cursor=pointer]
+              - button "ු" [ref=e99] [cursor=pointer]
+              - button "ූ" [ref=e100] [cursor=pointer]
+              - button "ෘ" [ref=e101] [cursor=pointer]
+              - button "ෙ" [ref=e102] [cursor=pointer]
+              - button "ේ" [ref=e103] [cursor=pointer]
+              - button "ෛ" [ref=e104] [cursor=pointer]
+              - button "ො" [ref=e105] [cursor=pointer]
+              - button "ෝ" [ref=e106] [cursor=pointer]
+              - button "ෟ" [ref=e107] [cursor=pointer]
+              - button "ං" [ref=e108] [cursor=pointer]
+              - button "ඃ" [ref=e109] [cursor=pointer]
+              - button "්" [ref=e110] [cursor=pointer]
+              - button "්‍ර" [ref=e111] [cursor=pointer]
+              - button "්‍ය" [ref=e112] [cursor=pointer]
+            - generic [ref=e113]:
+              - button "⌫" [ref=e114] [cursor=pointer]
+              - button "␣" [ref=e115] [cursor=pointer]
+    - generic [ref=e119]:
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - generic [ref=e123]: Singlish
+            - generic [ref=e124]:
+              - button "Undo" [ref=e125] [cursor=pointer]:
+                - img [ref=e126]
+              - button "Redo" [ref=e128] [cursor=pointer]:
+                - img [ref=e129]
+          - textbox "Input Your Singlish Text Here." [active] [ref=e132]: maedamva tharaha karagena kohomadha api mee degree eka karannee , degree ekee vaeda katayuthu karagena yannee ,mehema karanna baee ,oyaata vitharak nemei haemootamayi man mee kiyannee ,puLuvan tharam maedamva shape ekee thiyaaganna eka thama api koyikaatath hodha ehema naethi unoth pahala batch ekee Lamayi ekka apita ayemath exam liyanna veyi , poddak vagakiimak aethuva vaeda karanna
+          - generic [ref=e133]:
+            - button "Open File" [ref=e134] [cursor=pointer]:
+              - img [ref=e135]
+            - button "Copy" [ref=e137] [cursor=pointer]:
+              - img [ref=e138]
+            - button "Cut" [ref=e140] [cursor=pointer]:
+              - img [ref=e141]
+            - button "Paste" [ref=e143] [cursor=pointer]:
+              - img [ref=e144]
+            - button "Clear" [ref=e146] [cursor=pointer]:
+              - img [ref=e147]
+        - button "Swap Languages" [ref=e150] [cursor=pointer]:
+          - img [ref=e151]
+        - generic [ref=e153]:
+          - generic [ref=e154]: Sinhala
+          - generic [ref=e155]: මැඩම්ව තරහ කරගෙන කොහොමද අපි මේ degree එක කරන්නේ , degree එකේ වැඩ කටයුතු කරගෙන යන්නේ ,මෙහෙම කරන්න බෑ ,ඔයාට විතරක් නෙමේ හැමෝටමයි man මේ කියන්නේ ,පුළුවන් තරම් මැඩම්ව shape එකේ තියාගන්න එක තම අපි කොයිකාටත් හොද එහෙම නැති උනොත් පහල batch එකේ ළමයි එක්ක අපිට අයෙමත් exam ලියන්න වෙයි , පොඩ්ඩක් වගකීමක් ඇතුව වැඩ කරන්න
+          - generic [ref=e156]:
+            - button "Copy" [ref=e157] [cursor=pointer]:
+              - img [ref=e158]
+            - button "Clear" [ref=e160] [cursor=pointer]:
+              - img [ref=e161]
+      - button "Clear" [ref=e164] [cursor=pointer]: 🗑️ Clear
+```
